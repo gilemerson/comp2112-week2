@@ -1,4 +1,4 @@
-# Assignment 1 
+# Webmail
 
 1. Each email is taken from a template literal.  The code for template literal is obviously looped to how many emails there are.
 
