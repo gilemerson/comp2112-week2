@@ -1,5 +1,7 @@
-# PURPOSE: To understand the power of querySelector etc... in action by modifying existing HTML elements on a webpage.
-# DELIVERABLE: One .js file, posted on GitHub, that includes all your code such that if I copy/paste it in the console while viewing a Chapters book on the webpage, it changes to whatever you decided.
+# PURPOSE: 
+## To understand the power of querySelector etc... in action by modifying existing HTML elements on a webpage.
+# DELIVERABLE: 
+## One .js file, posted on GitHub, that includes all your code such that if I copy/paste it in the console while viewing a Chapters book on the webpage, it changes to whatever you decided.
 
 1. goto www.chapters.ca
 2. Click on any book to see its details
