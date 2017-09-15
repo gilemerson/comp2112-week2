@@ -26,6 +26,7 @@ View all lessons below in playlist: https://scrimba.com/playlist/pRnVS9
 
 6. View lesson  https://scrimba.com/casts/cLpzJtV
 	1. Change logo by replacing the img element, with our own created <img> element.
+	1. View the lesson above, and only if you're really stuck, then [view the answer](https://youtu.be/nwvMb3_UbQU)
 
 7. View lesson  https://scrimba.com/casts/caqzMs3
 	1. Using a template literal with an object to change innerHTML
