@@ -26,7 +26,7 @@ View all lessons below in playlist: https://scrimba.com/playlist/pRnVS9
 
 7. View lesson  https://scrimba.com/casts/caqzMs3
 	1. Using a template literal with an object to change innerHTML
-	```js
+```
 function render(obj) {
    let snippet = `
    <ul>
