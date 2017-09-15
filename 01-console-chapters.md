@@ -22,7 +22,7 @@ View all lessons below in playlist: https://scrimba.com/playlist/pRnVS9
 
 5. View lesson  https://scrimba.com/casts/coaad-81d70665628f
 	1. Change the nav menus to different words taken from an array that you create (example: let navTitles = ['a', 'b', 'c'])
-	1. View the lesson above, and only if you're really stuck, then [view the answer]()
+	1. View the lesson above, and only if you're really stuck, then [view the answer](https://youtu.be/XrJpRiJJjA4)
 
 6. View lesson  https://scrimba.com/casts/cLpzJtV
 	1. Change logo by replacing the img element, with our own created <img> element.
