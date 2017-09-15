@@ -13,6 +13,7 @@ View all lessons below in playlist: https://scrimba.com/playlist/pRnVS9
 3. View lesson https://scrimba.com/casts/co055-3403a8c0f053 
 
 	1. Change the book title (listed on right hand side) to a food you love (example: 'French fries')
+	1. View the lesson above, and only if you're really stuck, then [view the answer](https://youtu.be/sBbu1PqXsu8)
 
 4. View lesson https://scrimba.com/casts/co364-7337cec28d65 
 
