@@ -18,7 +18,7 @@ View all lessons below in playlist: https://scrimba.com/playlist/pRnVS9
 4. View lesson https://scrimba.com/casts/co364-7337cec28d65 
 
 	1. Change the book cover to a food picture (copy url of picture listed in http://images.google.com)
-	1. View the lesson above, and only if you're really stuck, then [view the answer on Youtube](https://youtu.be/z3-Brkn48eg)
+	1. View the lesson above, and only if you're really stuck, then [view the answer](https://youtu.be/z3-Brkn48eg)
 
 5. View lesson  https://scrimba.com/casts/coaad-81d70665628f
 	1. Change the nav menus to different words taken from an array that you create (example: let navTitles = ['a', 'b', 'c'])
