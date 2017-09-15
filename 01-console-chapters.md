@@ -54,7 +54,7 @@ render(object)
 
 9. Make the book's author link go to www.georgiancollege.ca.  So if you hover over it you'll see the link at the bottom left corner (but don't click the link otherwise you'll lose your console session)
 
-If you say document.documentElement.innerHTML = '' then you basically erase the entire body of the page
-10. Make the button to "Add to Cart" so that it erases the body.
 
+10. Make the button to "Add to Cart" so that it erases the body.
+If you say document.documentElement.innerHTML = '' then you basically erase the entire body of the page
 
