@@ -10,20 +10,23 @@ Using the console, do the following challenges using document.querySelector, doc
 
 View all lessons below in playlist: https://scrimba.com/playlist/pRnVS9
 
-View lesson https://scrimba.com/casts/co055-3403a8c0f053
-3. Change the book title (listed on right hand side) to a food you love (example: 'French fries')
+3. View lesson https://scrimba.com/casts/co055-3403a8c0f053 
 
-View lesson https://scrimba.com/casts/co364-7337cec28d65
-4. Change the book cover to a food picture (copy url of picture listed in http://images.google.com)
+	1. Change the book title (listed on right hand side) to a food you love (example: 'French fries')
 
-View lesson  https://scrimba.com/casts/coaad-81d70665628f
-5. Change the nav menus to different words taken from an array that you create (example: let navTitles = ['a', 'b', 'c'])
+4. View lesson https://scrimba.com/casts/co364-7337cec28d65 
 
-View lesson  https://scrimba.com/casts/cLpzJtV
-6. Change logo by replacing the img element, with our own created <img> element.
+	1. Change the book cover to a food picture (copy url of picture listed in http://images.google.com)
 
-View lesson  https://scrimba.com/casts/caqzMs3
-7. Using a template literal with an object to change innerHTML
+5. View lesson  https://scrimba.com/casts/coaad-81d70665628f
+	1. Change the nav menus to different words taken from an array that you create (example: let navTitles = ['a', 'b', 'c'])
+
+6. View lesson  https://scrimba.com/casts/cLpzJtV
+	1. Change logo by replacing the img element, with our own created <img> element.
+
+7. View lesson  https://scrimba.com/casts/caqzMs3
+	1. Using a template literal with an object to change innerHTML
+	```js
 function render(obj) {
    let snippet = `
    <ul>
@@ -36,14 +39,15 @@ function render(obj) {
 	node.innerHTML = snippet;
 }
 render(object)
+```
 
-View lesson: https://scrimba.com/casts/cocbb-9743174ae496
-8. Use a template literal within a template literal to create multiple ul-blocks above, using an array of objects, then calling the render(obj) function 
-by manually typing in the console:
-render(object[0]);
-render(object[1]);
-render(object[2]);
-
+8. View lesson: https://scrimba.com/casts/cocbb-9743174ae496
+	1. Use a template literal within a template literal to create multiple ul-blocks above, using an array of objects, then calling the render(obj) function by manually typing in the console:
+```
+	render(object[0]);
+	render(object[1]);
+	render(object[2]);
+```
 
 9. Make the book's author link go to www.georgiancollege.ca.  So if you hover over it you'll see the link at the bottom left corner (but don't click the link otherwise you'll lose your console session)
 
