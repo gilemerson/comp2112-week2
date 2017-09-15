@@ -30,6 +30,7 @@ View all lessons below in playlist: https://scrimba.com/playlist/pRnVS9
 
 7. View lesson  https://scrimba.com/casts/caqzMs3
 	1. Using a template literal with an object to change innerHTML
+	1. View the lesson above, and only if you're really stuck, then [view the answer](https://youtu.be/9pm6rw0HOMQ)
 ```
 function render(obj) {
    let snippet = `
