@@ -60,7 +60,7 @@ render(object)
 
 
 10. View lesson: https://youtu.be/TPSTeA8DOjk (there is no audio for this clip)
-	1. Make the button to "Add to Cart" so that it erases the body.  If you say 
+	1. Make the button to "Add to Cart" so that it erases the body by adding an addEventListener('click'...).  If you say 
 ```
 document.documentElement.innerHTML = ''
 ```
