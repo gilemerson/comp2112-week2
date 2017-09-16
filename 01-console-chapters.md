@@ -30,7 +30,7 @@ View all lessons below in playlist: https://scrimba.com/playlist/pRnVS9
 
 7. View lesson  https://scrimba.com/casts/caqzMs3
 	1. Using a template literal with an object to change innerHTML
-	1. View the lesson above, and only if you're really stuck, then [view the answer](https://youtu.be/AdN-27Gf1_E)
+	1. View the lesson above, and only if you're really stuck, then [view the answer from 0:00 to 3:47s](https://youtu.be/AdN-27Gf1_E)
 ```
 function render(obj) {
    let snippet = `
@@ -48,7 +48,7 @@ render(object)
 
 8. View lesson: https://scrimba.com/casts/cocbb-9743174ae496
 	1. Use a template literal within a template literal to create multiple ul-blocks above, using an array of objects, then calling the render(obj) function by manually typing in the console:
-	1. View the lesson above, and only if you're really stuck, then [view the answer](https://youtu.be/AdN-27Gf1_E)
+	1. View the lesson above, and only if you're really stuck, then [view the answer from 3:48 to end](https://youtu.be/AdN-27Gf1_E#t=3m48s) 
 ```
 	render(object[0]);
 	render(object[1]);
