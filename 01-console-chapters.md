@@ -61,7 +61,8 @@ render(object)
 
 10. Make the button to "Add to Cart" so that it erases the body.
 If you say 
-```document.documentElement.innerHTML = ''
+```
+document.documentElement.innerHTML = ''
 ```
 then you basically erase the entire body of the page
 
