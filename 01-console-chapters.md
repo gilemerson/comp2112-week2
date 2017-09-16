@@ -66,3 +66,4 @@ document.documentElement.innerHTML = ''
 ```
 then you basically erase the entire body of the page
 
+GITHUB HOW-TO: Here is COMP 1073 Tom's tutorial on how to upload on GitHub https://www.youtube.com/watch?v=2rb9SDVNtAA&t=49m07s
