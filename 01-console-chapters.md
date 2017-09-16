@@ -59,8 +59,8 @@ render(object)
 	1. Make the book's author link go to www.georgiancollege.ca.  So if you hover over it you'll see the link at the bottom left corner (but don't click the link otherwise you'll lose your console session)
 
 
-10. Make the button to "Add to Cart" so that it erases the body.
-If you say 
+10. View lesson: https://youtu.be/TPSTeA8DOjk (there is no audio for this clip)
+	1. Make the button to "Add to Cart" so that it erases the body.  If you say 
 ```
 document.documentElement.innerHTML = ''
 ```
