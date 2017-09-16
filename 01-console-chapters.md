@@ -55,7 +55,7 @@ render(object)
 	render(object[2]);
 ```
 
-9. View lesson from 52seconds onward https://scrimba.com/casts/co364-7337cec28d65
+9. View lesson from 52 seconds onward https://scrimba.com/casts/co364-7337cec28d65
 	1. Make the book's author link go to www.georgiancollege.ca.  So if you hover over it you'll see the link at the bottom left corner (but don't click the link otherwise you'll lose your console session)
 
 
